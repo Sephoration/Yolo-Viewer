@@ -2,7 +2,7 @@
 
 ![YOLO-Viewer 界面](1.jpg)
 
-基于 **PySide6 + Ultralytics YOLO + OpenCV** 的多模型目标检测可视化系统，支持实时视频/摄像头推理，提供流畅的交互式预览体验。
+基于 **PySide6 + Ultralytics YOLO + OpenCV** 的多模型目标检测可视化系统，支持实时视频/摄像头推理与交互式缩放平移预览，集成目标检测、分类、关键点、分割四种任务，提供流畅的检测体验。
 
 ---
 
